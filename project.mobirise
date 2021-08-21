@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "games.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,8 +45,8 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "favicon": "@PROJECT_PATH@/assets/images/wojondev-128x128.png",
-    "mbrsiteDomain": "h8nczwmcgh",
+    "favicon": "@PROJECT_PATH@/assets/images/wojondev-128x128_2.png",
+    "mbrsiteDomain": "udidrrjnvd",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -508,7 +508,7 @@
         }
       ]
     },
-    "page1.html": {
+    "games.html": {
       "settings": {
         "title": "Games",
         "order": 1
