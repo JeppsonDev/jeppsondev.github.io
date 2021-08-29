@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Wojon</title>
+	<founding-date>2016</founding-date>
+	<website>http://www.jeppsondev.github.io/</website>
+	<based-in>Sweden</based-in>
+	<address>
+	</address>
+	<press-contact>wojon.dev@gmail.com</press-contact>
+	<phone>+46724325071</phone>
+	<socials>
+		<social>
+			<name>twitter.com/JeppsonDev</name>
+			<link>twitter.com/JeppsonDev</link>
+		</social>
+		<social>
+			<name>twitter.com/WojonStudios</name>
+			<link>twitter.com/WojonStudios</link>
+		</social>
+	</socials>
+
+	<description>	
+		Wojon is a two-man hobbyist studio created by @JeppsonDev and @Willqvist. We create short and fun games, currently for free!
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Wojon started out as something called a UF-Company in Sweden which is an organization that helps young people set up a company. Wojon stands for William och Jesper Online (william and jesper online)</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>During studies Wojon was mostly inactive but has recently been used to publish awesome games such as our most recent title Slopetron!</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Slopetron - Launch Trailer</name>
+			<youtube>hhnFyCbi2AQ</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+	</awards>
+	
+	<quotes>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Wojon itch io</title>
+			<description>Checkout Wojon's itch io page</description>
+			<link>https://wojon.itch.io</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jesper Byström</person>
+			<role>Developer, Team Wojon</role>
+		</credit>
+		<credit>
+			<person>Albin Dalbert</person>
+			<role>Musician, Freelancer</role>
+		</credit>
+		<credit>
+			<person>William Lundqvist</person>
+			<role>VFX Artist, Team Wojon</role>
+		</credit>
+	</credits>
+	
+	<awards>
+	</awards>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>jesper.bystrom.online@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Developer Twitter</name>
+			<link>http://twitter.com/JeppsonDev</link>
+		</contact>
+		<contact>
+			<name>Studio Twitter</name>
+			<link>http://twitter.com/WojonStudios</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/profile.php?id=100063822742927</link>
+		</contact>
+		<contact>
+			<name>Website</name>
+			<link>jeppsondev.github.io</link>
+		</contact>
+	</contacts>
+</game>
