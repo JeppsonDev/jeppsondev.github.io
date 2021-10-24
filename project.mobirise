@@ -46,7 +46,7 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/wojondev-128x128_2.png",
     "mbrsiteDomain": "udidrrjnvd",
     "robotsSwitcher": false,
